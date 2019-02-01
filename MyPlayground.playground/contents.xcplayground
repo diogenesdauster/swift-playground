@@ -6,5 +6,6 @@
         <page name='tuples'/>
         <page name='tuples - challenge'/>
         <page name='booleans'/>
+        <page name='boolean - challenge'/>
     </pages>
 </playground>
