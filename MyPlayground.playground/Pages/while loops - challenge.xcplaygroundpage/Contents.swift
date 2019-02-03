@@ -52,25 +52,19 @@ while count < 10 {
 
 
 count = 0
-var roll = 0
+var roll: Int = 0
 
-while roll != 6 {
+repeat {
     roll = Int.random(in: 1...6)
     count += 1
+    if roll > 5 {
+        break
+    }
     print("After \(count) rolls, roll is \(roll)")
-}
+} while roll != 6
 /*:
  **Extra Challenge!**
  Stop the execution of the loop when `count` is greater than 5. You've learned two ways to do this so far in this course!
  */
-count = 0
-roll = 0
-while true {
-    roll = Int.random(in: 1...6)
-    count += 1
-    print("After \(count) rolls, roll is \(roll)")
-    if roll > 5 {
-        break
-    }
-}
+
 //: [Next](@next)
