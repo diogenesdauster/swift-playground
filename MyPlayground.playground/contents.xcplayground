@@ -12,5 +12,6 @@
         <page name='For loops'/>
         <page name='For loops - challenge'/>
         <page name='Switch'/>
+        <page name='Switch - challenge'/>
     </pages>
 </playground>
