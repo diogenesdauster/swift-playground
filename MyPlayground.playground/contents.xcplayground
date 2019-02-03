@@ -9,5 +9,7 @@
         <page name='boolean - challenge'/>
         <page name='while loops'/>
         <page name='while loops - challenge'/>
+        <page name='For loops'/>
+        <page name='For loops - challenge'/>
     </pages>
 </playground>
