@@ -17,5 +17,7 @@
         <page name='Functions '/>
         <page name='Functions - challenge'/>
         <page name='More Functions'/>
+        <page name='Optional'/>
+        <page name='Optional - challenge'/>
     </pages>
 </playground>
