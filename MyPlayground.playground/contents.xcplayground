@@ -15,5 +15,6 @@
         <page name='Switch - challenge'/>
         <page name='Enumerations'/>
         <page name='Functions '/>
+        <page name='Functions - challenge'/>
     </pages>
 </playground>
