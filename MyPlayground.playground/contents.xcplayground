@@ -21,5 +21,6 @@
         <page name='Optional - challenge'/>
         <page name='More Optional'/>
         <page name='More Optional - challenge'/>
+        <page name='Arrays'/>
     </pages>
 </playground>
