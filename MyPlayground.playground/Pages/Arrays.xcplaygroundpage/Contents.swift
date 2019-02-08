@@ -28,7 +28,7 @@ pastries.insert("tart", at: 0)
 let removedTwo = pastries.remove(at: 2)
 let removedLast = pastries.removeLast()
 
-pastries [0...1] = ["brownie","fritter","tart"]
+pastries[0...1] = ["brownie","fritter","tart"]
 
 pastries.swapAt(1, 2)
 
