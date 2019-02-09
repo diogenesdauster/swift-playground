@@ -24,5 +24,6 @@
         <page name='Arrays'/>
         <page name='Arrays - challenge'/>
         <page name='Dictionaries'/>
+        <page name='Dictionaries - challenge'/>
     </pages>
 </playground>
