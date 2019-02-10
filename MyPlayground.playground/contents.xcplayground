@@ -27,5 +27,6 @@
         <page name='Dictionaries - challenge'/>
         <page name='Sets'/>
         <page name='Closures'/>
+        <page name='Closure+Collection'/>
     </pages>
 </playground>
