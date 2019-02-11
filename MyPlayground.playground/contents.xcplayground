@@ -29,5 +29,6 @@
         <page name='Closures'/>
         <page name='Closure+Collection'/>
         <page name='Closure - challenge'/>
+        <page name='Structures'/>
     </pages>
 </playground>
