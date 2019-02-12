@@ -32,5 +32,6 @@
         <page name='Structures'/>
         <page name='Structure - challenge'/>
         <page name='Properties'/>
+        <page name='Properties - challenge'/>
     </pages>
 </playground>
