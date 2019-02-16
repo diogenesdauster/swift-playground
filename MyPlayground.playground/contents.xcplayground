@@ -37,5 +37,6 @@
         <page name='Methods - challenge'/>
         <page name='Classes vs Structures'/>
         <page name='Classes - challenge'/>
+        <page name='Inheritance'/>
     </pages>
 </playground>
