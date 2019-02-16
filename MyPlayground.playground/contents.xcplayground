@@ -39,5 +39,6 @@
         <page name='Classes - challenge'/>
         <page name='Inheritance'/>
         <page name='Initializers'/>
+        <page name='Initializers - challenge'/>
     </pages>
 </playground>
