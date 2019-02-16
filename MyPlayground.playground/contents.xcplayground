@@ -40,5 +40,6 @@
         <page name='Inheritance'/>
         <page name='Initializers'/>
         <page name='Initializers - challenge'/>
+        <page name='Protocols'/>
     </pages>
 </playground>
