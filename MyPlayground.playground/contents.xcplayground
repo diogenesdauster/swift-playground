@@ -35,5 +35,6 @@
         <page name='Properties - challenge'/>
         <page name='Methods'/>
         <page name='Methods - challenge'/>
+        <page name='Classes vs Structures'/>
     </pages>
 </playground>
