@@ -41,5 +41,6 @@
         <page name='Initializers'/>
         <page name='Initializers - challenge'/>
         <page name='Protocols'/>
+        <page name='Memory Management'/>
     </pages>
 </playground>
